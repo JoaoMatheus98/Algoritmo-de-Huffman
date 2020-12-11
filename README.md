@@ -1,2 +1,2 @@
 # Huffman
-Encode and decode
+Codificação e decodificação de arquivos de texto 
